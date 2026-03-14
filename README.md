@@ -96,7 +96,7 @@ This portfolio contains sections for introduction, about, experience, projects, 
 
 ## 🧑‍💻 Author
 
-**Ankush**
+**Ankush Mane**
 
 Passionate Web Developer focused on building modern, responsive, and user-friendly web applications.
 
