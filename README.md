@@ -1,10 +1,8 @@
-# personal_portfolio
-
-
 # Developer Portfolio Website
 
 A responsive **personal developer portfolio website** built using **HTML, CSS, and JavaScript**. This project showcases a developer's profile, skills, experience, and projects in a clean and modern interface.
 
+---
 ## 🚀 Features
 
 * Responsive and modern UI design
