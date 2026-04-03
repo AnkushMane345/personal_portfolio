@@ -13,6 +13,7 @@ A responsive **personal developer portfolio website** built using **HTML, CSS, a
 * Contact form with validation
 * Smooth scrolling behavior
 
+---
 ## 🛠️ Technologies Used
 
 * **HTML5** – Structure and content of the website
