@@ -22,6 +22,7 @@ A responsive **personal developer portfolio website** built using **HTML, CSS, a
 * **Google Fonts (Poppins)** – Typography
 * **Typed.js** – Typing animation effect
 
+---
 ## 📄 Sections Included
 
 ### 1. Home
