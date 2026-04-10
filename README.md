@@ -95,6 +95,15 @@ If validation passes, a confirmation message is shown.
 
 This portfolio contains sections for introduction, about, experience, projects, and contact to help showcase a developer’s profile effectively.
 
+<img width="1919" height="862" alt="Screenshot 2026-04-10 182823" src="https://github.com/user-attachments/assets/c571819f-0128-46ac-8d12-bfa17b975b3d" />
+
+<img width="1919" height="861" alt="Screenshot 2026-04-10 182812" src="https://github.com/user-attachments/assets/3849c82a-343d-4cb8-9ace-1a72ec5b3ee4" />
+
+<img width="1919" height="867" alt="Screenshot 2026-04-10 182749" src="https://github.com/user-attachments/assets/1bb133fa-33b6-473b-8c6a-2f9ca6a75f24" />
+
+<img width="1919" height="830" alt="Screenshot 2026-04-10 182717" src="https://github.com/user-attachments/assets/a1af0310-bdd5-4e02-9317-7ab27922c319" />
+
+
 ## 🧑‍💻 Author
 
 **Ankush Mane**
