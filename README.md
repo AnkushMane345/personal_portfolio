@@ -62,6 +62,8 @@ A responsive **personal developer portfolio website** built using **HTML, CSS, a
   * Email
   * Message
 
+
+---
 ## ⚙️ JavaScript Functionality
 
 ### Typing Animation
