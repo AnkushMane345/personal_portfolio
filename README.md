@@ -85,6 +85,7 @@ The contact form validates:
 
 If validation passes, a confirmation message is shown.
 
+---
 ## 🎨 Styling Highlights
 
 * Dark theme UI
