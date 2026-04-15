@@ -94,6 +94,7 @@ If validation passes, a confirmation message is shown.
 * Timeline design for experience
 * Responsive navigation bar
 
+---
 ## 📸 Preview
 
 This portfolio contains sections for introduction, about, experience, projects, and contact to help showcase a developer’s profile effectively.
